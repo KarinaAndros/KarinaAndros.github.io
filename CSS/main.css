@@ -79,6 +79,7 @@
     
     main {
         width: 100%;
+        background-color: white;
     }
     
     #about_me_block {
@@ -179,6 +180,7 @@
     .works {
         animation: ani 3s both;
         width: 100%;
+        background-color: white;
     }
     
     #works_container {
