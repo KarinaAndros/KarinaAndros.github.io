@@ -445,6 +445,17 @@
         .work h3 {
             font-size: 15px;
         }
+        .skill_img {
+            height: 80px;
+            width: 80px;
+        }
+        .photo {
+            height: 350px;
+            width: 350px;
+        }
+        .skill {
+            width: 35%;
+        }
     }
     
     @media (max-width: 400px) {
@@ -463,16 +474,8 @@
         header button {
             width: 40%;
         }
-        .photo {
-            height: 350px;
-            width: 350px;
-        }
-        .skill_img {
-            height: 100px;
-            width: 100px;
-        }
         .skill_name {
-            font-size: 13px;
+            font-size: 10px;
         }
         .style_img {
             height: 180px;
@@ -496,6 +499,9 @@
     }
     
     @media (max-width: 320px) {
+        .header_container h1 {
+            font-size: 30px;
+        }
         .style_img {
             height: 130px;
         }
@@ -504,8 +510,8 @@
             width: 290px;
         }
         .skill_img {
-            height: 80px;
-            width: 80px;
+            height: 70px;
+            width: 70px;
         }
         .img_nt2 {
             width: 280px;
